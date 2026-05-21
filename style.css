@@ -6,12 +6,12 @@ body {
 strong{
  color: lightgreen;
 }   
-h1 {
-    color: greenyellow;
-    font-weight: bold;
+h1{
+            font-weight: bold;
 }
+ 
 span{
-    color: lightgreen;
-    border: 0cap;
-    
+            color: #3ffa00;
+            border: 1px solid #80df73;
+            padding: 10px;
 }
